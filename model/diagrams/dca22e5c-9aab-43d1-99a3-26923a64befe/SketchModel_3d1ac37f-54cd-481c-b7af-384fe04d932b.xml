@@ -1,0 +1,42 @@
+<archimate:SketchModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Новый эскиз"
+    id="3d1ac37f-54cd-481c-b7af-384fe04d932b"
+    background="0">
+  <children
+      xsi:type="archimate:SketchModelSticky"
+      id="eb80c965-69b1-43d5-a051-1eff8e24919e"
+      name="Липучка"
+      targetConnections="8fcfd59b-378e-44f8-baca-9a6d6a4b7411"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffffb5"
+      content="Кидай дальше">
+    <bounds
+        x="804"
+        y="192"
+        width="135"
+        height="70"/>
+  </children>
+  <children
+      xsi:type="archimate:SketchModelSticky"
+      id="e1c5fb1d-c0b2-4bcb-b09a-4d14c8c14f32"
+      name="Липучка"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#c9e7b7"
+      content="Бери больше">
+    <sourceConnections
+        id="8fcfd59b-378e-44f8-baca-9a6d6a4b7411"
+        name="Пока летит - отдыхаешь"
+        source="e1c5fb1d-c0b2-4bcb-b09a-4d14c8c14f32"
+        target="eb80c965-69b1-43d5-a051-1eff8e24919e"
+        type="1"/>
+    <bounds
+        x="324"
+        y="192"
+        width="135"
+        height="70"/>
+  </children>
+</archimate:SketchModel>
