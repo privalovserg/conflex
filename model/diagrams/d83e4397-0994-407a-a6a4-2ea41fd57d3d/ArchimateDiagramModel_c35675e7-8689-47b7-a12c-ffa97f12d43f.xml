@@ -1,0 +1,42 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Новое описание ArchiMate"
+    id="c35675e7-8689-47b7-a12c-ffa97f12d43f">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="b8cd612f-c506-4fee-9914-7de4b0c3a019">
+    <bounds
+        x="144"
+        y="60"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessActor"
+        href="BusinessActor_bbb0eb89-c582-4509-9844-1c8a55dd0008.xml#bbb0eb89-c582-4509-9844-1c8a55dd0008"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="7f87e91f-5120-42a5-9bd3-ad9d2e366354">
+    <bounds
+        x="571"
+        y="313"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_26fc1bc7-cdc0-4c45-b106-84ec06a133af.xml#26fc1bc7-cdc0-4c45-b106-84ec06a133af"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="91a38a23-5d73-4780-a096-4c671faad03a">
+    <bounds
+        x="426"
+        y="190"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessActor"
+        href="BusinessActor_1b70543e-0bfd-4ca2-9ad1-236fe8bb12dc.xml#1b70543e-0bfd-4ca2-9ad1-236fe8bb12dc"/>
+  </children>
+</archimate:ArchimateDiagramModel>
