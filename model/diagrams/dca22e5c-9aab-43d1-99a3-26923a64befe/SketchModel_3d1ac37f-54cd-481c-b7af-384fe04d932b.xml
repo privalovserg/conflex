@@ -13,6 +13,11 @@
       textAlignment="1"
       fillColor="#ffffb5"
       content="Кидай дальше">
+    <sourceConnections
+        id="e2dcdd3b-7a18-4153-a9ab-df59632c2917"
+        source="eb80c965-69b1-43d5-a051-1eff8e24919e"
+        target="d8234219-23ce-41ff-b1a1-0cc0d31cf95e"
+        type="1"/>
     <bounds
         x="804"
         y="192"
@@ -36,6 +41,21 @@
     <bounds
         x="324"
         y="192"
+        width="135"
+        height="70"/>
+  </children>
+  <children
+      xsi:type="archimate:SketchModelSticky"
+      id="d8234219-23ce-41ff-b1a1-0cc0d31cf95e"
+      name="Липучка"
+      targetConnections="e2dcdd3b-7a18-4153-a9ab-df59632c2917"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffc400"
+      content="Проверяем результат">
+    <bounds
+        x="804"
+        y="372"
         width="135"
         height="70"/>
   </children>
