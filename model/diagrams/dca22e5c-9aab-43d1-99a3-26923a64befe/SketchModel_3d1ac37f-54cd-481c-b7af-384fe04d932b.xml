@@ -12,10 +12,15 @@
       lineColor="#5c5c5c"
       textAlignment="1"
       fillColor="#ffffb5"
-      content="Кидай дальше">
+      content="Проверка заявки">
+    <sourceConnections
+        id="e2dcdd3b-7a18-4153-a9ab-df59632c2917"
+        source="eb80c965-69b1-43d5-a051-1eff8e24919e"
+        target="d8234219-23ce-41ff-b1a1-0cc0d31cf95e"
+        type="1"/>
     <bounds
-        x="804"
-        y="192"
+        x="324"
+        y="336"
         width="135"
         height="70"/>
   </children>
@@ -26,10 +31,9 @@
       lineColor="#5c5c5c"
       textAlignment="1"
       fillColor="#c9e7b7"
-      content="Бери больше">
+      content="Регистрация заявки">
     <sourceConnections
         id="8fcfd59b-378e-44f8-baca-9a6d6a4b7411"
-        name="Пока летит - отдыхаешь"
         source="e1c5fb1d-c0b2-4bcb-b09a-4d14c8c14f32"
         target="eb80c965-69b1-43d5-a051-1eff8e24919e"
         type="1"/>
@@ -38,5 +42,30 @@
         y="192"
         width="135"
         height="70"/>
+  </children>
+  <children
+      xsi:type="archimate:SketchModelSticky"
+      id="d8234219-23ce-41ff-b1a1-0cc0d31cf95e"
+      name="Липучка"
+      targetConnections="e2dcdd3b-7a18-4153-a9ab-df59632c2917"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffc400"
+      content="Выполнение заявки">
+    <bounds
+        x="324"
+        y="468"
+        width="135"
+        height="70"/>
+  </children>
+  <children
+      xsi:type="archimate:SketchModelActor"
+      id="66b26792-b46b-467d-8d10-1a0eada8ed79"
+      name="Сотрудник ИТ">
+    <bounds
+        x="528"
+        y="228"
+        width="97"
+        height="100"/>
   </children>
 </archimate:SketchModel>
