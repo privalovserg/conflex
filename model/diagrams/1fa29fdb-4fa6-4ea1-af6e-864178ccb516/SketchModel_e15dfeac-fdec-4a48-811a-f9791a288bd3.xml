@@ -1,0 +1,54 @@
+<archimate:SketchModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Новый эскиз"
+    id="e15dfeac-fdec-4a48-811a-f9791a288bd3"
+    background="0">
+  <children
+      xsi:type="archimate:SketchModelSticky"
+      id="f127ef30-2b41-4846-b599-abf5d577e7da"
+      name="Липучка"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffffb5"
+      content="Первый шаг">
+    <sourceConnections
+        id="fec50607-bc40-4d73-98e9-088e6453f75c"
+        name="Инормация"
+        documentation="Инормация"
+        source="f127ef30-2b41-4846-b599-abf5d577e7da"
+        target="9adb8b01-0a1e-4871-ae35-973046645655"
+        type="1">
+      <bendpoints
+          startX="7"
+          startY="-79"
+          endX="-235"
+          endY="-83"/>
+      <bendpoints
+          startX="235"
+          startY="-79"
+          endX="-7"
+          endY="-83"/>
+    </sourceConnections>
+    <bounds
+        x="238"
+        y="200"
+        width="135"
+        height="70"/>
+  </children>
+  <children
+      xsi:type="archimate:SketchModelSticky"
+      id="9adb8b01-0a1e-4871-ae35-973046645655"
+      name="Липучка"
+      targetConnections="fec50607-bc40-4d73-98e9-088e6453f75c"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#c9e7b7"
+      content="Второй шаг">
+    <bounds
+        x="480"
+        y="204"
+        width="135"
+        height="70"/>
+  </children>
+</archimate:SketchModel>
