@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="УПП"
+    id="79fe1884-7ee3-451d-8223-ecffa7df7fdf">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="946f34b7-6786-4d90-96a9-e09bc9d8a460">
+    <bounds
+        x="224"
+        y="247"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationService"
+        href="ApplicationService_d028ff1b-ada4-4f71-97db-0a278c575eb4.xml#d028ff1b-ada4-4f71-97db-0a278c575eb4"/>
+  </children>
+</archimate:ArchimateDiagramModel>

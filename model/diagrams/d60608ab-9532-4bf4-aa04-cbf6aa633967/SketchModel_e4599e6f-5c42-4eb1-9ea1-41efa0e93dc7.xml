@@ -119,4 +119,18 @@
         width="135"
         height="70"/>
   </children>
+  <children
+      xsi:type="archimate:SketchModelSticky"
+      id="76471687-f9de-41be-ab0e-80426644ae2b"
+      name="Липучка"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffffff"
+      content="Опиши задачу сегодняшнего дня">
+    <bounds
+        x="502"
+        y="437"
+        width="135"
+        height="70"/>
+  </children>
 </archimate:SketchModel>
