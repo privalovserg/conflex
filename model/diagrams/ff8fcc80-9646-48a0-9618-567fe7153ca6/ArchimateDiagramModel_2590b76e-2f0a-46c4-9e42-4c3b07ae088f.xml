@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="БП"
+    id="2590b76e-2f0a-46c4-9e42-4c3b07ae088f">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="465cadbb-41bc-442d-9662-2d18c066fed4">
+    <bounds
+        x="180"
+        y="108"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationService"
+        href="ApplicationService_091e7f14-c867-42db-9e54-05dc48af3dfa.xml#091e7f14-c867-42db-9e54-05dc48af3dfa"/>
+  </children>
+</archimate:ArchimateDiagramModel>

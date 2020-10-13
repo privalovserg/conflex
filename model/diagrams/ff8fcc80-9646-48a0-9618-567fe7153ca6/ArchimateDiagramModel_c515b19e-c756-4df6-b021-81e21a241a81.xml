@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ЗУП"
+    id="c515b19e-c756-4df6-b021-81e21a241a81">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="adc9c86e-673f-4bec-9525-18f895417b94">
+    <bounds
+        x="283"
+        y="174"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationService"
+        href="ApplicationService_1727af8f-4fb7-4b2c-9c83-37ef8400da32.xml#1727af8f-4fb7-4b2c-9c83-37ef8400da32"/>
+  </children>
+</archimate:ArchimateDiagramModel>
